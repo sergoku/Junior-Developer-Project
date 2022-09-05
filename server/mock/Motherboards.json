@@ -1,0 +1,23 @@
+[
+  {
+    "id": "67rdca3eeb7f6fgeed47110a",
+    "title": "Материнская плата Gigabyte GA-A320M-S2H (sAM4, AMD A320)",
+    "image": "https://img.telemart.ua/77085-257047-category_page/gigabyte-ga-a320m-s2h-sam4-amd-a320.jpg",
+    "categoria": "motherboard",
+    "price": 2099
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed47110b",
+    "title": "Материнская плата AsRock X570 Phantom Gaming 4 (sAM4, AMD X570)",
+    "categoria": "motherboard",
+    "price": 5999,
+    "image": "https://img.telemart.ua/181917-377442-category_page/asrock-x570-phantom-gaming-4-sam4-amd-x570.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed47110c",
+    "title": "Материнская плата MSI A520M-A PRO (sAM4, AMD A520)",
+    "categoria": "motherboard",
+    "price": 8300,
+    "image": "https://img.telemart.ua/295558-462051-category_page/msi-a520m-a-pro-sam4-amd-a520.png"
+  }
+]

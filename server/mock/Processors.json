@@ -1,0 +1,26 @@
+[
+  {
+    "id": "67rdca3eeb7f6fgeed471198",
+    "title": "Процессор Intel Core i5-10400F 2.9(4.3)GHz s1200 Box (BX8070110400F)",
+    "categoria": "processor",
+    "price": 12099,
+    "createdBy": "630a8e4741e58be89ac42dc0",
+    "image": "https://img.telemart.ua/263112-462823-category_page/intel-core-i5-10400f-2943ghz-s1200-box.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471100",
+    "title": "Процессор AMD Ryzen 5 5600X 3.7(4.6)GHz 32MB sAM4 Box (100-100000065BOX)",
+    "categoria": "processor",
+    "price": 6099,
+    "createdBy": "630a8e4741e58be89ac42dc0",
+    "image": "https://img.telemart.ua/308347-471415-category_page/amd-ryzen-5-5600x-3746ghz-32mb-sam4-box-100-100000065box.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed4711012",
+    "title": "Процессор Intel Core i5-11400F 2.6(4.4)Hz 12MB s1200 Box (BX8070811400F)",
+    "categoria": "processor",
+    "price": 7099,
+    "createdBy": "630a8e4741e58be89ac42dc0",
+    "image": "https://img.telemart.ua/347188-494931-category_page/intel-core-i5-11400f-26ghz-12mb-s1200-box-bx8070811400f.png"
+  }
+]

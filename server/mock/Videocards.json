@@ -1,0 +1,23 @@
+[
+  {
+    "id": "67rdca3eeb7f6fgeed471101",
+    "title": "Видеокарта MSI GeForce RTX 3060 VENTUS 2X OC 12288MB (RTX 3060 VENTUS 2X 12G OC)",
+    "categoria": "videocard",
+    "price": 12099,
+    "image": "https://img.telemart.ua/341558-490321-category_page/msi-geforce-rtx-3060-ventus-2x-oc-12288mb-rtx-3060-ventus-2x-12g-oc.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471102",
+    "title": "Видеокарта Gigabyte GeForce RTX 3060 EAGLE OC 12288MB (GV-N3060EAGLE OC-12GD 2.0)",
+    "categoria": "videocard",
+    "price": 22099,
+    "image": "https://img.telemart.ua/371938-517519-category_page/gigabyte-geforce-rtx-3060-eagle-oc-12288mb-gv-n3060eagle-oc-12gd-20.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471103",
+    "title": "Видеокарта Palit GeForce RTX 3090 Ti GameRock OC 24576MB (NED309TS19SB-1022G)",
+    "categoria": "videocard",
+    "price": 32099,
+    "image": "https://img.telemart.ua/414441-566591-category_page/palit-geforce-rtx-3090-ti-gamerock-oc-24576mb-ned309ts19sb-1022g.png"
+  }
+]

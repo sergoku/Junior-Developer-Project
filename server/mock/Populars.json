@@ -1,0 +1,65 @@
+[
+  {
+    "id": "67rdca3eeb7f6fgeed47110a",
+    "title": "Материнская плата Gigabyte GA-A320M-S2H (sAM4, AMD A320)",
+    "image": "https://img.telemart.ua/77085-257047-category_page/gigabyte-ga-a320m-s2h-sam4-amd-a320.jpg",
+    "categoria": "motherboard",
+    "price": 2099
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed47110b",
+    "title": "Материнская плата AsRock X570 Phantom Gaming 4 (sAM4, AMD X570)",
+    "categoria": "motherboard",
+    "price": 5999,
+    "image": "https://img.telemart.ua/181917-377442-category_page/asrock-x570-phantom-gaming-4-sam4-amd-x570.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed47110c",
+    "title": "Материнская плата MSI A520M-A PRO (sAM4, AMD A520)",
+    "categoria": "motherboard",
+    "price": 8300,
+    "image": "https://img.telemart.ua/295558-462051-category_page/msi-a520m-a-pro-sam4-amd-a520.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471198",
+    "title": "Процессор Intel Core i5-10400F 2.9(4.3)GHz s1200 Box (BX8070110400F)",
+    "categoria": "processor",
+    "price": 12099,
+    "image": "https://img.telemart.ua/263112-462823-category_page/intel-core-i5-10400f-2943ghz-s1200-box.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471100",
+    "title": "Процессор AMD Ryzen 5 5600X 3.7(4.6)GHz 32MB sAM4 Box (100-100000065BOX)",
+    "categoria": "processor",
+    "price": 6099,
+    "image": "https://img.telemart.ua/308347-471415-category_page/amd-ryzen-5-5600x-3746ghz-32mb-sam4-box-100-100000065box.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed4711012",
+    "title": "Процессор Intel Core i5-11400F 2.6(4.4)Hz 12MB s1200 Box (BX8070811400F)",
+    "categoria": "processor",
+    "price": 7099,
+    "image": "https://img.telemart.ua/347188-494931-category_page/intel-core-i5-11400f-26ghz-12mb-s1200-box-bx8070811400f.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471101",
+    "title": "Видеокарта MSI GeForce RTX 3060 VENTUS 2X OC 12288MB (RTX 3060 VENTUS 2X 12G OC)",
+    "categoria": "videocard",
+    "price": 12099,
+    "image": "https://img.telemart.ua/341558-490321-category_page/msi-geforce-rtx-3060-ventus-2x-oc-12288mb-rtx-3060-ventus-2x-12g-oc.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471102",
+    "title": "Видеокарта Gigabyte GeForce RTX 3060 EAGLE OC 12288MB (GV-N3060EAGLE OC-12GD 2.0)",
+    "categoria": "videocard",
+    "price": 22099,
+    "image": "https://img.telemart.ua/371938-517519-category_page/gigabyte-geforce-rtx-3060-eagle-oc-12288mb-gv-n3060eagle-oc-12gd-20.png"
+  },
+  {
+    "id": "67rdca3eeb7f6fgeed471103",
+    "title": "Видеокарта Palit GeForce RTX 3090 Ti GameRock OC 24576MB (NED309TS19SB-1022G)",
+    "categoria": "videocard",
+    "price": 32099,
+    "image": "https://img.telemart.ua/414441-566591-category_page/palit-geforce-rtx-3090-ti-gamerock-oc-24576mb-ned309ts19sb-1022g.png"
+  }
+]
